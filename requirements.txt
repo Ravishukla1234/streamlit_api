@@ -6,8 +6,8 @@ PyAthena[SQLAlchemy]==2.25.2
 redshift-connector==2.0.910
 sqlalchemy-redshift==0.8.14
 streamlit
-dependencies/botocore-1.29.140-py3-none-any.whl
-dependencies/boto3-1.26.140-py3-none-any.whl
+botocore-1.29.140-py3-none-any.whl
+boto3-1.26.140-py3-none-any.whl
 python-dotenv
 tabulate
 pypdf==3.8.1
