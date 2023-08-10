@@ -1,0 +1,14 @@
+sqlalchemy==1.4.47
+snowflake-sqlalchemy
+langchain==0.0.202
+sqlalchemy-aurora-data-api
+PyAthena[SQLAlchemy]==2.25.2
+redshift-connector==2.0.910
+sqlalchemy-redshift==0.8.14
+streamlit
+dependencies/botocore-1.29.140-py3-none-any.whl
+dependencies/boto3-1.26.140-py3-none-any.whl
+python-dotenv
+tabulate
+pypdf==3.8.1
+faiss-cpu==1.7.4
